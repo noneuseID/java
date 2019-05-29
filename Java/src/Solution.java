@@ -1,5 +1,5 @@
 import java.util.*;
-//스태틱 변수 사용예제
+
 
 public class Solution {
     static Scanner in=new Scanner(System.in);
