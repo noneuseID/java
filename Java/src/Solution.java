@@ -11,6 +11,8 @@ public class Solution {
    in.close();
    //String s=???; Complete this line below
     String s=String.valueOf(n);
+    //String s = "" + n;
+    //String s = Integer.toString(n);
    //Write your code here
 
    
