@@ -1,6 +1,6 @@
 import java.util.*;
 //½ºÅÂÆ½ º¯¼ö »ç¿ë¿¹Á¦
-//¿Ö¾ÈµÇ ½ÃÆÈ½ÃÆÈ
+//¿Ö¾ÈµÇ ½ÃÆÈ½ÃÆÈ?
 public class Solution {
     static Scanner in=new Scanner(System.in);
     static boolean flag=true;
