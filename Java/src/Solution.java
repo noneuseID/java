@@ -1,5 +1,6 @@
 import java.util.*;
 //스태틱 변수 사용예제
+//왜안되 시팔
 public class Solution {
     static Scanner in=new Scanner(System.in);
     static boolean flag=true;
